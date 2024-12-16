@@ -17,7 +17,6 @@
 		justify-content: center;
 		align-items: center;
 		height: 100vh;
-		background-color: #0a0a0d;
 		padding: 0 16px;
 	}
 
