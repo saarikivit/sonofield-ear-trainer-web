@@ -8,7 +8,9 @@
 		<p>Get notified when Sonofield Ear Trainer releases</p>
 		<a class="link" href="https://www.sonic-sorcery.com/set">https://www.sonic-sorcery.com/set</a>
 		<br />
-		<a class="text-gray-700" href="http://et.sonofield.com/privacy-policy">Privacy Policy</a>
+		<a class="text-gray-700" href="/privacy-policy">Privacy Policy</a>
+		<br />
+		<a class="text-gray-700" href="/about">About Us</a>
 	</div>
 </section>
 
