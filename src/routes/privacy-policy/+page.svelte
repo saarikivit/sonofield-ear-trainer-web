@@ -1,4 +1,4 @@
-<article class="prose prose-zinc lg:prose-xl">
+<article class="prose prose-zinc lg:prose-lg">
 	<h1>Sonofield Ear Trainer Privacy Policy</h1>
 
 	<p>
@@ -18,7 +18,7 @@
 	<h2>1. Contact Details</h2>
 
 	<p>
-		<b>Name:</b> Sonofield Ear Trainer
+		<b>Name:</b> Sonofield Ear Trainer Education Inc.
 		<br />
 		<b>Correspondence Address:</b> 1120 Coats Dr, Gabriola BC, V0R 1X4, Canada
 		<br />

@@ -6,7 +6,9 @@
 	<img alt="Sonofield Ear Trainer screenshot" src={screenshot} />
 	<div class="text">
 		<p>Get notified when Sonofield Ear Trainer releases</p>
-		<a href="https://www.sonic-sorcery.com/set">https://www.sonic-sorcery.com/set</a>
+		<a class="link" href="https://www.sonic-sorcery.com/set">https://www.sonic-sorcery.com/set</a>
+		<br />
+		<a class="text-gray-700" href="http://et.sonofield.com/privacy-policy">Privacy Policy</a>
 	</div>
 </section>
 
@@ -36,7 +38,7 @@
 		color: #d3d0d0;
 		font-size: 14px;
 	}
-	a {
+	.link {
 		color: #5858ff;
 		font-size: 14px;
 	}
