@@ -1,12 +1,12 @@
 <div class="prose prose-zinc lg:prose-lg">
 	<header>
-		<h1>About Sonofield Ear Trainer Education Inc.</h1>
+		<h1>About Sonofield Ear Trainer Education Ltd.</h1>
 	</header>
 	<main>
 		<section>
 			<h2>Who We Are</h2>
 			<p>
-				Sonofield Ear Trainer Education Inc. is a Canadian company. We want to help people improve
+				Sonofield Ear Trainer Education Ltd. is a Canadian company. We want to help people improve
 				their ability to recognize, understand and play music.
 			</p>
 		</section>

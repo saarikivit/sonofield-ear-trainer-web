@@ -18,7 +18,7 @@
 	<h2>1. Contact Details</h2>
 
 	<p>
-		<b>Name:</b> Sonofield Ear Trainer Education Inc.
+		<b>Name:</b> Sonofield Ear Trainer Education Ltd.
 		<br />
 		<b>Correspondence Address:</b> PO Box 54523 Highgate PO, 7155 Kingsway Burnaby, BC V5E 4J6
 		Canada

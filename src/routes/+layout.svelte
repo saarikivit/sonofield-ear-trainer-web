@@ -6,7 +6,7 @@
 {@render children()}
 
 <footer>
-	<p class="text-center">&copy; 2025 Sonofield Ear Trainer Education Inc. All rights reserved.</p>
+	<p class="text-center">&copy; 2025 Sonofield Ear Trainer Education Ltd. All rights reserved.</p>
 </footer>
 
 <style>
