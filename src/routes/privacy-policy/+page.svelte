@@ -20,7 +20,8 @@
 	<p>
 		<b>Name:</b> Sonofield Ear Trainer Education Inc.
 		<br />
-		<b>Correspondence Address:</b> 1120 Coats Dr, Gabriola BC, V0R 1X4, Canada
+		<b>Correspondence Address:</b> PO Box 54523 Highgate PO, 7155 Kingsway Burnaby, BC V5E 4J6
+		Canada
 		<br />
 		<b>Email Address:</b> support@sonofield.com
 	</p>
