@@ -42,9 +42,15 @@
 	<ul>
 		<li><b>What we collect:</b> Purchase-related information.</li>
 		<li><b>Purpose:</b> To handle subscription and purchase services.</li>
-		<li><b>Processing Provider:</b> <a href="https://revenuecat.com">RevenueCat</a>.</li>
 		<li>
-			<b>Note:</b> RevenueCat processes only the necessary information required to provide this service.
+			<b>Processing Providers:</b> <a href="https://revenuecat.com">RevenueCat</a>,
+			<a href="https://www.apple.com/app-store/">App Store</a>,
+			<a href="https://play.google.com/store/apps">Play Store</a>,
+			<a href="https://stripe.com">Stripe</a>.
+		</li>
+		<li>
+			<b>Note:</b> RevenueCat, App Store, Play Store and Stripe process only the necessary information
+			required to provide this service.
 		</li>
 	</ul>
 
@@ -114,6 +120,9 @@
 
 	<ul>
 		<li><b>RevenueCat</b> (purchase processing)</li>
+		<li><b>App Store</b> (purchase processing)</li>
+		<li><b>Play Store</b> (purchase processing)</li>
+		<li><b>Stripe</b> (purchase processing)</li>
 		<li><b>PostHog</b> (analytics)</li>
 		<li><b>Sentry</b> (crash reporting)</li>
 		<li><b>Squarespace</b> (email list)</li>
