@@ -10,6 +10,8 @@
 		<br />
 		<a class="text-gray-700" href="/privacy-policy">Privacy Policy</a>
 		<br />
+		<a class="text-gray-700" href="/terms-of-service">Terms of Service</a>
+		<br />
 		<a class="text-gray-700" href="/about">About Us</a>
 	</div>
 </section>
