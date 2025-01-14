@@ -163,11 +163,11 @@
 	h1,
 	h2,
 	h3 {
-		color: #eaeaea;
+		color: #d3d0d0;
 	}
 
 	a,
 	article {
-		color: #bebebe;
+		color: #d3d0d0;
 	}
 </style>

@@ -37,11 +37,11 @@
 
 	h1,
 	h2 {
-		color: #eaeaea;
+		color: #d3d0d0;
 	}
 
 	a,
 	div {
-		color: #bebebe;
+		color: #d3d0d0;
 	}
 </style>

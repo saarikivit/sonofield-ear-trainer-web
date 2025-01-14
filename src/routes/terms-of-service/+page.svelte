@@ -157,10 +157,10 @@
 
 	h1,
 	h2 {
-		color: #eaeaea;
+		color: #d3d0d0;
 	}
 
 	article {
-		color: #bebebe;
+		color: #d3d0d0;
 	}
 </style>
