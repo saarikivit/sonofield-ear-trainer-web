@@ -1,5 +1,6 @@
 <script lang="ts">
 	import screenshot from '$lib/assets/screenshot.webp';
+	import AppFooter from '../components/AppFooter.svelte';
 </script>
 
 <svelte:head>
@@ -62,6 +63,8 @@
 		fluency through intuitive, feeling-based ear training.
 	</p>
 </article>
+
+<AppFooter></AppFooter>
 
 <style>
 	section {

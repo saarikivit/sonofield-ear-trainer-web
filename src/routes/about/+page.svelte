@@ -1,3 +1,7 @@
+<script lang="ts">
+	import AppFooter from '../../components/AppFooter.svelte';
+</script>
+
 <svelte:head>
 	<title>About Sonofield Ear Trainer</title>
 	<meta
@@ -56,6 +60,8 @@
 		</section>
 	</main>
 </div>
+
+<AppFooter></AppFooter>
 
 <style>
 	div {

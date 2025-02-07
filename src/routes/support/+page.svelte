@@ -1,8 +1,13 @@
+<script lang="ts">
+	import AppFooter from '../../components/AppFooter.svelte';
+</script>
+
 <article class="prose prose-zinc lg:prose-lg">
 	<h1>Support & Feedback</h1>
 
 	<p>Need help or have a suggestion? Contact us at support@sonofield.com. We are here to assist!</p>
 </article>
+<AppFooter></AppFooter>
 
 <style>
 	article {
