@@ -2,4 +2,4 @@
 	import PrivacyPolicy from '../../../components/PrivacyPolicy.svelte';
 </script>
 
-<PrivacyPolicy></PrivacyPolicy>
+<PrivacyPolicy disableRouting={true}></PrivacyPolicy>

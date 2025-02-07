@@ -1,3 +1,14 @@
+<script lang="ts">
+	let { disableRouting = false }: { disableRouting: boolean } = $props();
+	const revenueCatLink = disableRouting ? '' : 'https://revenuecat.com';
+	const appStoreLink = disableRouting ? '' : 'https://www.apple.com/app-store/';
+	const playStoreLink = disableRouting ? '' : 'https://play.google.com/store/apps';
+	const stripeLink = disableRouting ? '' : 'https://stripe.com';
+	const postHogLink = disableRouting ? '' : 'https://posthog.com';
+	const sentryLink = disableRouting ? '' : 'https://sentry.io';
+	const squarespaceLink = disableRouting ? '' : 'https://squarespace.com';
+</script>
+
 <article class="prose prose-zinc lg:prose-lg">
 	<h1>Sonofield Ear Trainer Privacy Policy</h1>
 
@@ -43,10 +54,10 @@
 		<li><b>What we collect:</b> Purchase-related information.</li>
 		<li><b>Purpose:</b> To handle subscription and purchase services.</li>
 		<li>
-			<b>Processing Providers:</b> <a href="https://revenuecat.com">RevenueCat</a>,
-			<a href="https://www.apple.com/app-store/">App Store</a>,
-			<a href="https://play.google.com/store/apps">Play Store</a>,
-			<a href="https://stripe.com">Stripe</a>.
+			<b>Processing Providers:</b> <a href={revenueCatLink}>RevenueCat</a>,
+			<a href={appStoreLink}>App Store</a>,
+			<a href={playStoreLink}>Play Store</a>,
+			<a href={stripeLink}>Stripe</a>.
 		</li>
 		<li>
 			<b>Note:</b> RevenueCat, App Store, Play Store and Stripe process only the necessary information
@@ -61,7 +72,7 @@
 			played).
 		</li>
 		<li><b>Purpose:</b> To improve the app and provide insights into its functionality.</li>
-		<li><b>Processing Provider:</b> <a href="https://posthog.com">PostHog</a>.</li>
+		<li><b>Processing Provider:</b> <a href={postHogLink}>PostHog</a>.</li>
 		<li>
 			<b>User Choice:</b> Users may opt out of analytics data collection via the App’s account settings.
 		</li>
@@ -71,7 +82,7 @@
 	<ul>
 		<li><b>What we collect:</b> Non-personal crash-related data.</li>
 		<li><b>Purpose:</b> To identify and resolve technical issues.</li>
-		<li><b>Processing Provider:</b> <a href="https://sentry.io">Sentry</a>.</li>
+		<li><b>Processing Provider:</b> <a href={sentryLink}>Sentry</a>.</li>
 		<li>
 			<b>User Choice:</b> Users may opt out of analytics data collection via the App’s account settings.
 		</li>
@@ -81,7 +92,7 @@
 	<ul>
 		<li><b>What we collect:</b> Email addresses of users who sign up for our email list.</li>
 		<li><b>Purpose:</b> To send updates, news, and promotional materials.</li>
-		<li><b>Processing Provider:</b> <a href="https://squarespace.com">Squarespace</a>.</li>
+		<li><b>Processing Provider:</b> <a href={squarespaceLink}>Squarespace</a>.</li>
 		<li>
 			<b>User Choice:</b> Users may unsubscribe at any time by following the instructions in the email.
 		</li>
